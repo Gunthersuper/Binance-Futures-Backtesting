@@ -1,6 +1,6 @@
 **Binance Futures backtesting Python script (bactesting.py)**
 
-It doesnt matter on what platorm you trade, it just use binance as a provider (getting candles).
+It doesn't matter which platform you trade on, it just uses binance as the provider (receiving candles).
 
 **Installing**:
 1. Download the repo, unpack it
